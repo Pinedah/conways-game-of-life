@@ -1,3 +1,8 @@
+
+// Conways game of life
+// Programming Fundamentals (First Semester - ESCOM IPN)
+// Pineda Hernandez Francisco
+
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
