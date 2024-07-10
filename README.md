@@ -17,7 +17,7 @@ This repository contains the implementation of the classic Game of Life, a cellu
 ## Usage
 1. Clone this repository: 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Pinedah/conways-game-of-life.git
     ```
 2. Compile the code:
     ```bash
@@ -25,7 +25,7 @@ This repository contains the implementation of the classic Game of Life, a cellu
     ```
 3. Run the program:
     ```bash
-    ./game_of_life
+    game_of_life
     ```
 
 ## Learning Objectives
